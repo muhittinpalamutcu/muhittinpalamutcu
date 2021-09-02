@@ -1,9 +1,4 @@
-### Hi there 👋
-
-A passionate, dedicated and enthusiastic fresh university graduate who possesses strong computer and interpersonal skills.
-
-
-<h2> Hi, I'm Muhittin Palamutcu! 👨🏼‍💻></h2>
+<h2> Hi, I'm Muhittin Palamutcu! 👨🏼‍💻</h2>
 <img align='right' src="https://media.giphy.com/media/92jYkH87yxV1C/giphy.gif?cid=790b7611708534aab483f2a23d565317f7f1a27b859692d9&rid=giphy.gif&ct=g" width="230">
 <p>A passionate, dedicated and enthusiastic fresh university graduate who possesses strong computer and interpersonal skills.</p>
 
