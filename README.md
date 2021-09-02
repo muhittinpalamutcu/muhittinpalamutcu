@@ -34,13 +34,12 @@ const muhittin = {
 ```
 
 [![Linkedin: muhittin-palamutcu](https://img.shields.io/badge/-muhittinpalamutcu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhittin-palamutcu/)](https://www.linkedin.com/in/muhittin-palamutcu)
-[![GitHub muhittinpalamutcu](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhittinpalamutcu)
 [![Instagram: mui.coding](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mui.coding/)
 
 
 <!--
 **muhittinpalamutcu/muhittinpalamutcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![GitHub muhittinpalamutcu](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhittinpalamutcu)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
